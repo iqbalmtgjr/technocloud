@@ -274,7 +274,7 @@
 
         <div class="section-title">
           <h2>Portfolio</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <p>Adapun project aplikasi berbasis website yang sudah kami bangun dan juga design yang sudah kami rancang.</p>
         </div>
 
         <ul id="portfolio-flters" class="d-flex justify-content-center" data-aos="fade-up" data-aos-delay="100">
@@ -387,19 +387,18 @@
 
         <div class="section-title">
           <h2>Team</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <p>Team yang kami bangun berdasarkan masing-masing keahlian yang dimiliki.</p>
         </div>
 
         <div class="row">
 
-          <div class="col-lg-3"></div>
           <div class="col-lg-6" data-aos="zoom-in" data-aos-delay="100">
             <div class="member d-flex align-items-start">
               <div class="pic"><img src={{asset("assets/img/team/team-1.jpg")}} class="img-fluid" alt=""></div>
               <div class="member-info">
                 <h4>Muhammad Iqbal</h4>
                 <span>Web Programmer</span>
-                <p>Explicabo voluptatem mollitia et repellat qui dolorum quasi</p>
+                <p>Web programmer bertugas dalam merancang dan membangun aplikasi berbasis website.</p>
                 <div class="social">
                   <a href=""><i class="ri-twitter-fill"></i></a>
                   <a href=""><i class="ri-facebook-fill"></i></a>
@@ -409,14 +408,14 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-3"></div>
-          {{-- <div class="col-lg-6" data-aos="zoom-in" data-aos-delay="100">
+
+          <div class="col-lg-6" data-aos="zoom-in" data-aos-delay="100">
             <div class="member d-flex align-items-start">
               <div class="pic"><img src={{asset("assets/img/team/team-1.jpg")}} class="img-fluid" alt=""></div>
               <div class="member-info">
-                <h4>Muhammad Iqbal</h4>
-                <span>Web Programmer</span>
-                <p>Explicabo voluptatem mollitia et repellat qui dolorum quasi</p>
+                <h4>Dede Rahmat</h4>
+                <span>Designer</span>
+                <p>Designer bertugas dalam mendesign website, logo, foto maupun video.</p>
                 <div class="social">
                   <a href=""><i class="ri-twitter-fill"></i></a>
                   <a href=""><i class="ri-facebook-fill"></i></a>
@@ -425,15 +424,15 @@
                 </div>
               </div>
             </div>
-          </div> --}}
+          </div>
 
           <div class="col-lg-6 mt-4" data-aos="zoom-in" data-aos-delay="300">
             <div class="member d-flex align-items-start">
               <div class="pic"><img src={{asset("assets/img/team/team-3.jpg")}} class="img-fluid" alt=""></div>
               <div class="member-info">
-                <h4>Dede Rahmat</h4>
-                <span>Designer</span>
-                <p>Quisquam facilis cum velit laborum corrupti fuga rerum quia</p>
+                <h4>Alexius Darminto</h4>
+                <span>Marketing</span>
+                <p>Marketing bertugas dalam pemasaran jasa Techno Cloud agar sampai kepada client yang membutuhkan.</p>
                 <div class="social">
                   <a href=""><i class="ri-twitter-fill"></i></a>
                   <a href=""><i class="ri-facebook-fill"></i></a>
@@ -450,7 +449,7 @@
               <div class="member-info">
                 <h4>Supriyatno</h4>
                 <span>Marketing</span>
-                <p>Dolorum tempora officiis odit laborum officiis et et accusamus</p>
+                <p>Marketing bertugas dalam pemasaran jasa Techno Cloud agar sampai kepada client yang membutuhkan.</p>
                 <div class="social">
                   <a href=""><i class="ri-twitter-fill"></i></a>
                   <a href=""><i class="ri-facebook-fill"></i></a>
@@ -471,14 +470,14 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>Frequently Asked Questions</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <h2>Bagaimana Cara kami Bekerja?</h2>
+          <p>Kami memiliki cara kerja kami sendiri yang terdiri dari beberapa langkah.</p>
         </div>
 
         <div class="faq-list">
           <ul>
             <li data-aos="fade-up" data-aos-delay="100">
-              <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" class="collapse" data-bs-target="#faq-list-1">Non consectetur a erat nam at lectus urna duis? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+              <i class="bi bi-1-circle" style="color: blue;"></i><a data-bs-toggle="collapse" class="collapse" data-bs-target="#faq-list-1">Non consectetur a erat nam at lectus urna duis? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
               <div id="faq-list-1" class="collapse show" data-bs-parent=".faq-list">
                 <p>
                   Feugiat pretium nibh ipsum consequat. Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non.
