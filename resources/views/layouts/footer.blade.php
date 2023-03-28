@@ -9,11 +9,11 @@
             {{-- <h3>Arsha</h3> --}}
             <img width=100px style="margin-bottom: 20px" src="{{asset('assets/img/technocloud/PNG-TC2.png')}}" alt="">
             <p>
-              A108 Adam Street <br>
-              New York, NY 535022<br>
-              United States <br><br>
-              <strong>Phone:</strong> +62 895-1272-2087<br>
-              <strong>Email:</strong> info@example.com<br>
+              Kab. Sintang, 78616 <br>
+              Kalimantan Barat<br>
+              Indonesia <br><br>
+              <strong>WhatsApp:</strong> +62 895-1272-2087<br>
+              <strong>Email:</strong> technocloud@gmail.com<br>
             </p>
           </div>
 
