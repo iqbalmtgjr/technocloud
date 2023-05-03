@@ -85,7 +85,7 @@
           <div class="col-lg-6 pt-4 pt-lg-0">
             <p>
               Percayakan website impian anda kepada <strong>Techno Cloud</strong>. Website impian anda akan terwujud dengan kerja sama
-              tim dari <strong>Techno Cloud</strong>. Dengan design web yang mengikuti perkembangan zaman, website impian anda akan 
+              tim dari <strong>Techno Cloud</strong>. Dengan design web yang mengikuti perkembangan zaman, website impian anda akan
               terlihat menawan.
             </p>
             {{-- <a href="#" class="btn-learn-more">Learn More</a> --}}
