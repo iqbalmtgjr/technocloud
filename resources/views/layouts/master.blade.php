@@ -279,102 +279,102 @@
 
         <ul id="portfolio-flters" class="d-flex justify-content-center" data-aos="fade-up" data-aos-delay="100">
           <li data-filter="*" class="filter-active">All</li>
-          <li data-filter=".filter-app">App</li>
-          <li data-filter=".filter-card">Card</li>
-          <li data-filter=".filter-web">Web</li>
+          <li data-filter=".filter-app">Mobile</li>
+          <li data-filter=".filter-card">Desain</li>
+          <li data-filter=".filter-web">Website</li>
         </ul>
 
         <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <div class="portfolio-img"><img src={{asset("assets/img/portfolio/portfolio-1.jpg")}} class="img-fluid" alt=""></div>
+            <div class="portfolio-img"><img src={{asset("assets/img/portfolio/mobile1.jpg")}} class="img-fluid" alt=""></div>
             <div class="portfolio-info">
               <h4>App 1</h4>
               <p>App</p>
-              <a href={{asset("assets/img/portfolio/portfolio-1.jpg")}} data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 1"><i class="bx bx-plus"></i></a>
+              <a href={{asset("assets/img/portfolio/mobile1.jpg")}} data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 1"><i class="bx bx-plus"></i></a>
               <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-            <div class="portfolio-img"><img src={{asset("assets/img/portfolio/portfolio-2.jpg")}} class="img-fluid" alt=""></div>
+            <div class="portfolio-img"><img src={{asset("assets/img/portfolio/web1.jpg")}} class="img-fluid" alt=""></div>
             <div class="portfolio-info">
               <h4>Web 3</h4>
               <p>Web</p>
-              <a href={{asset("assets/img/portfolio/portfolio-2.jpg")}} data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Web 3"><i class="bx bx-plus"></i></a>
+              <a href={{asset("assets/img/portfolio/web1.jpg")}} data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Web 3"><i class="bx bx-plus"></i></a>
               <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <div class="portfolio-img"><img src={{asset("assets/img/portfolio/portfolio-3.jpg")}} class="img-fluid" alt=""></div>
+            <div class="portfolio-img"><img src={{asset("assets/img/portfolio/mobile1.jpg")}} class="img-fluid" alt=""></div>
             <div class="portfolio-info">
               <h4>App 2</h4>
               <p>App</p>
-              <a href={{asset("assets/img/portfolio/portfolio-3.jpg")}} data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 2"><i class="bx bx-plus"></i></a>
+              <a href={{asset("assets/img/portfolio/mobile1.jpg")}} data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 2"><i class="bx bx-plus"></i></a>
               <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <div class="portfolio-img"><img src={{asset("assets/img/portfolio/portfolio-4.jpg")}} class="img-fluid" alt=""></div>
+          <!-- <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+            <div class="portfolio-img"><img src={{asset("assets/img/portfolio/desain1.jpg")}} class="img-fluid" alt=""></div>
             <div class="portfolio-info">
               <h4>Card 2</h4>
               <p>Card</p>
-              <a href={{asset("assets/img/portfolio/portfolio-4.jpg")}} data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Card 2"><i class="bx bx-plus"></i></a>
+              <a href={{asset("assets/img/portfolio/desain1.jpg")}} data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Card 2"><i class="bx bx-plus"></i></a>
               <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
             </div>
-          </div>
+          </div> -->
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-            <div class="portfolio-img"><img src={{asset("assets/img/portfolio/portfolio-5.jpg")}} class="img-fluid" alt=""></div>
+          <!-- <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+            <div class="portfolio-img"><img src={{asset("assets/img/portfolio/web2.jpg")}} class="img-fluid" alt=""></div>
             <div class="portfolio-info">
               <h4>Web 2</h4>
               <p>Web</p>
-              <a href={{asset("assets/img/portfolio/portfolio-5.jpg")}} data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Web 2"><i class="bx bx-plus"></i></a>
+              <a href={{asset("assets/img/portfolio/web2.jpg")}} data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Web 2"><i class="bx bx-plus"></i></a>
               <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
             </div>
-          </div>
+          </div> -->
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <div class="portfolio-img"><img src={{asset("assets/img/portfolio/portfolio-6.jpg")}} class="img-fluid" alt=""></div>
+          <!-- <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-img"><img src={{asset("assets/img/portfolio/mobile1.jpg")}} class="img-fluid" alt=""></div>
             <div class="portfolio-info">
               <h4>App 3</h4>
               <p>App</p>
-              <a href={{asset("assets/img/portfolio/portfolio-6.jpg")}} data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 3"><i class="bx bx-plus"></i></a>
+              <a href={{asset("assets/img/portfolio/mobile1.jpg")}} data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 3"><i class="bx bx-plus"></i></a>
               <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
             </div>
-          </div>
+          </div> -->
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <div class="portfolio-img"><img src={{asset("assets/img/portfolio/portfolio-7.jpg")}} class="img-fluid" alt=""></div>
+          <!-- <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+            <div class="portfolio-img"><img src={{asset("assets/img/portfolio/desain2.jpg")}} class="img-fluid" alt=""></div>
             <div class="portfolio-info">
               <h4>Card 1</h4>
               <p>Card</p>
-              <a href={{asset("assets/img/portfolio/portfolio-7.jpg")}} data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Card 1"><i class="bx bx-plus"></i></a>
+              <a href={{asset("assets/img/portfolio/desain2.jpg")}} data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Card 1"><i class="bx bx-plus"></i></a>
               <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
             </div>
-          </div>
+          </div> -->
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <div class="portfolio-img"><img src={{asset("assets/img/portfolio/portfolio-8.jpg")}} class="img-fluid" alt=""></div>
+          <!-- <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+            <div class="portfolio-img"><img src={{asset("assets/img/portfolio/desain3.jpg")}} class="img-fluid" alt=""></div>
             <div class="portfolio-info">
               <h4>Card 3</h4>
               <p>Card</p>
-              <a href={{asset("assets/img/portfolio/portfolio-8.jpg")}} data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Card 3"><i class="bx bx-plus"></i></a>
+              <a href={{asset("assets/img/portfolio/desain3.jpg")}} data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Card 3"><i class="bx bx-plus"></i></a>
               <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
             </div>
-          </div>
+          </div> -->
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-            <div class="portfolio-img"><img src={{asset("assets/img/portfolio/portfolio-9.jpg")}} class="img-fluid" alt=""></div>
+          <!-- <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+            <div class="portfolio-img"><img src={{asset("assets/img/portfolio/web3.jpg")}} class="img-fluid" alt=""></div>
             <div class="portfolio-info">
               <h4>Web 3</h4>
               <p>Web</p>
-              <a href={{asset("assets/img/portfolio/portfolio-9.jpg")}} data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Web 3"><i class="bx bx-plus"></i></a>
+              <a href={{asset("assets/img/portfolio/web3.jpg")}} data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Web 3"><i class="bx bx-plus"></i></a>
               <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
             </div>
-          </div>
+          </div> -->
 
         </div>
 
@@ -394,11 +394,11 @@
 
           <div class="col-lg-6" data-aos="zoom-in" data-aos-delay="100">
             <div class="member d-flex align-items-start">
-              <div class="pic"><img src={{asset("assets/img/team/team-1.jpg")}} class="img-fluid" alt=""></div>
+              <div class="pic"><img src={{asset("assets/img/team/iqbal.jpg")}} class="img-fluid" alt=""></div>
               <div class="member-info">
                 <h4>Muhammad Iqbal</h4>
-                <span>Web Programmer</span>
-                <p>Web programmer bertugas dalam merancang dan membangun aplikasi berbasis website.</p>
+                <span>Programmer</span>
+                <p>Programmer bertugas dalam merancang dan membangun aplikasi.</p>
                 <div class="social">
                   <a href=""><i class="ri-twitter-fill"></i></a>
                   <a href=""><i class="ri-facebook-fill"></i></a>
@@ -426,7 +426,7 @@
             </div>
           </div>
 
-          <div class="col-lg-6 mt-4" data-aos="zoom-in" data-aos-delay="300">
+          <!-- <div class="col-lg-6 mt-4" data-aos="zoom-in" data-aos-delay="300">
             <div class="member d-flex align-items-start">
               <div class="pic"><img src={{asset("assets/img/team/team-3.jpg")}} class="img-fluid" alt=""></div>
               <div class="member-info">
@@ -441,15 +441,15 @@
                 </div>
               </div>
             </div>
-          </div>
+          </div> -->
 
           <div class="col-lg-6 mt-4" data-aos="zoom-in" data-aos-delay="400">
             <div class="member d-flex align-items-start">
-              <div class="pic"><img src={{asset("assets/img/team/team-4.jpg")}} class="img-fluid" alt=""></div>
+              <div class="pic"><img src={{asset("assets/img/team/supri1.jpg")}} class="img-fluid" alt=""></div>
               <div class="member-info">
                 <h4>Supriyatno</h4>
-                <span>Marketing</span>
-                <p>Marketing bertugas dalam pemasaran jasa Techno Cloud agar sampai kepada client yang membutuhkan.</p>
+                <span>Programmer</span>
+                <p>Programmer bertugas dalam merancang dan membangun aplikasi berbasis.</p>
                 <div class="social">
                   <a href=""><i class="ri-twitter-fill"></i></a>
                   <a href=""><i class="ri-facebook-fill"></i></a>
@@ -466,7 +466,7 @@
     </section><!-- End Team Section -->
 
     <!-- ======= Frequently Asked Questions Section ======= -->
-    <section id="faq" class="faq">
+    <!-- <section id="faq" class="faq">
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
@@ -525,7 +525,8 @@
         </div>
 
       </div>
-    </section><!-- End Frequently Asked Questions Section -->
+    </section> -->
+    <!-- End Frequently Asked Questions Section -->
 
     <!-- ======= Contact Section ======= -->
     <section id="contact" class="contact section-bg">
@@ -533,7 +534,7 @@
 
         <div class="section-title">
           <h2>Contact</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <!-- <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p> -->
         </div>
 
         <div class="row">
