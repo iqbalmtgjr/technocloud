@@ -411,7 +411,7 @@
 
           <div class="col-lg-6" data-aos="zoom-in" data-aos-delay="100">
             <div class="member d-flex align-items-start">
-              <div class="pic"><img src={{asset("assets/img/team/team-1.jpg")}} class="img-fluid" alt=""></div>
+              <div class="pic"><img src={{asset("assets/img/team/dede.jpg")}} class="img-fluid" alt=""></div>
               <div class="member-info">
                 <h4>Dede Rahmat</h4>
                 <span>Designer</span>
